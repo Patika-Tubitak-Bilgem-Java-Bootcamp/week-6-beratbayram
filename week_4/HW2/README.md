@@ -1,4 +1,4 @@
-# Week4 - HW1
+# Week4 - HW2
 
 Book sınıfı kitap ismi, sayfa sayısı, yazarın ismi, yayın tarihi değişkenlerinden oluşmaktadır.
 
